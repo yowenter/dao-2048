@@ -1,0 +1,9 @@
+image: ubuntu
+
+
+
+env:
+  - APP_NAME=daocloud
+
+script:
+  - echo "HI CI!"
